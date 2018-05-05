@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/admin/cat/add.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/admin/cat/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/admin/contact/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/admin/index/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/auth/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/public/cat.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/public/contact.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/public/detail.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/public/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/public/search.jsp=UTF-8
+encoding//WebContent/WEB-INF/templates/public/footer.jsp=UTF-8
